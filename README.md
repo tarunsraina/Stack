@@ -3,6 +3,50 @@ Random Stack problems that i have tried.
 
 code:https://github.com/tarunsraina/Stack/tree/master
 
+# problems
+
+AddAtBottom
+
+AddElementAtBootomUsingRecursion
+
+BalancedParanthesis
+
+CelebrityProblem
+
+DeleteMiddleElementInStack
+
+DuplicateBrackets
+
+EqualStacks
+
+InfixConversions
+
+LargestAreaHistogram
+
+MiddleElment
+
+NextGreaterElementOnRight
+
+PostfixEvaluation
+
+QueueImplementationUsingStack
+
+ReverseStackUsingRecursion
+
+ReverseStringUsingStack
+
+SlidingWindowMaximum
+
+SortAStack
+
+StackImplementationUsingArrays
+
+StackImplementationUsingQueue
+
+StockSpan
+
+getMinimum
+
 
 ## Resource links:
 
